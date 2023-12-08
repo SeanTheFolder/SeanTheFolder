@@ -1,5 +1,12 @@
 <h1>Hi, I'm Sean! <br/><a href="https://github.com/SeanTheFolder">Programmer</a>, <a href="https://www.linkedin.com/in/sean-welding/">IT Professional</a>
 
+<h2> 🤳 Connect with me: </h2>
+
+[<img align="left" alt="SeanWelding | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/sean-welding
+<br>
+
 <h2>👨‍💻 Projects: </h2>
 
 - <b>Active Directory</b>
@@ -28,12 +35,6 @@
   - [CompTIA Security+](https://www.comptia.org/training/by-certification/security)
   
 <h2>⚡ Fun fact: I Enjoy 3D Printing Projects too! </h2>
-
-<h2> 🤳 Connect with me: </h2>
-
-[<img align="left" alt="SeanWelding | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/sean-welding
 
 
 
