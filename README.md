@@ -1,5 +1,9 @@
 <h1>Hi, I'm Sean! <br/><a href="https://github.com/SeanTheFolder">Programmer</a>, <a href="https://www.linkedin.com/in/sean-welding/">IT Professional</a>
 
+<h2> 💬 About me: </h2>
+
+You might say I'm a bit of a nerd. I'm currently making the transition into the Information Technology field with a focus on Systems Engineering. I've been doing everything I can to improve my skills and gain exposure, and have produced and released content that is currently in use today (see below). Thank you for reviewing my portfolio!
+
 <h2> 🤳 Connect with me: </h2>
 
 [<img align="left" alt="SeanWelding | LinkedIn" width="30px" src="https://imgur.com/a81FhHA.png" />][linkedin]
