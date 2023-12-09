@@ -2,7 +2,7 @@
 
 <h2> 🤳 Connect with me: </h2>
 
-[<img align="left" alt="SeanWelding | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SeanWelding | LinkedIn" width="30px" src="https://imgur.com/a81FhHA.png" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/sean-welding
 <br>
@@ -11,10 +11,8 @@
 
 - <b>Active Directory</b>
   - [Active Directory Homelab](https://github.com/SeanTheFolder/AD_Homelab)
-
 - <b>Powershell</b>
   - [Active Directory Bulk User Creation](https://github.com/SeanTheFolder/AD_PS)
-
 - <b>Python</b>
   - [Active Directory Automation](https://github.com/SeanTheFolder/AD_PythonAutomation)
 
